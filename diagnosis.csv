@@ -1,0 +1,8 @@
+"DiagnosisRecordID";"AdmissionID";"PrimaryDiagnosisCode";"PrimaryDiagnosisDescription"
+1;1001;"I10";"Essential (primary) hypertension"
+2;1002;"J45.909";"Unspecified asthma, uncomplicated"
+3;1003;"E11.9";"Type 2 diabetes mellitus without complications"
+4;1004;"N39.0";"Urinary tract infection, site not specified"
+5;1005;"I50.9";"Heart failure, unspecified"
+6;1006;"R10.9";"Unspecified abdominal pain"
+7;1007;"E78.5";"Hyperlipidemia, unspecified"

@@ -1,0 +1,7 @@
+"PatientID";"PatientGender";"PatientDateOfBirth";"PatientRace";"PatientMaritalStatus";"PatientLanguage";"PatientPovertyPct"
+"P001";"Female";"1955-03-15";"White";"Married";"English";12.5
+"P002";"Male";"1980-11-20";"African American";"Single";"English";25.1
+"P003";"Female";"1992-07-01";"Asian";"Divorced";"Spanish";18.0
+"P004";"Male";"1975-01-25";"White";"Married";"English";9.3
+"P005";"Female";"1960-05-10";"African American";"Single";"English";31.75
+"P006";"Male";"2000-02-02";"White";"Single";"Icelandic";5.0
